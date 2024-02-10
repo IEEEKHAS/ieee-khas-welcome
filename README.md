@@ -7,7 +7,7 @@
 - Ekin Ata Angın | Director of DPD
 - Osman Buğrahan Kendirli | Asistance of Director and Head of Project Based 
 
-!(https://github.com/IEEEKHAS/ieee-khas-welcome/assets/159627489/cc894c6b-2068-490c-87b2-196a4ae4ec97)
+![logo](https://github.com/IEEEKHAS/ieee-khas-welcome/assets/159627489/cc894c6b-2068-490c-87b2-196a4ae4ec97)
 
 ### WELCOME TO OUR PROJECT DEVELOPMENT COMMUNITY PAGE OF KHAS IEEE STUDENT BRANCH!
 ### IEEE KADİR HAS ÜNİVERSİTESİ ÖĞRENCİ KOLU PROJE GELİŞTİRME DEPARTMANININ GITHUB TOPLULUK SAYFASINA HOŞ GELDİNİZ!
