@@ -5,7 +5,8 @@
 
 # IEEE KHAS DEPARTMENT OF PROJECT DEVELOPMENT &amp; MANAGEMENT | IEEE KHAS PROJE GELİŞTİRME VE YÖNETME DEPARTMANI
 - Ekin Ata Angın | Director of DPD
-- Osman Buğrahan Kendirli | Asistance of Director and Head of Project Based 
+- Osman Buğrahan Kendirli | Asistance of Director and Head of Project Based Courses
+- | Editor of Github Community Page
 
 ![logo](https://github.com/IEEEKHAS/ieee-khas-welcome/assets/159627489/cc894c6b-2068-490c-87b2-196a4ae4ec97)
 
