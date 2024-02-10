@@ -3,7 +3,7 @@
 ![image](https://github.com/IEEEKHAS/ieee-khas-welcome/assets/159627489/f410bca3-d937-424a-90cd-2cf5091e839a)
 
 
-IEEE KHAS DEPARTMENT OF PROJECT DEVELOPMENT &amp; MANAGEMENT | IEEE KHAS PROJE GELİŞTİRME VE YÖNETME DEPARTMANI
+# IEEE KHAS DEPARTMENT OF PROJECT DEVELOPMENT &amp; MANAGEMENT | IEEE KHAS PROJE GELİŞTİRME VE YÖNETME DEPARTMANI
 - Ekin Ata Angın | Director of DPD
 - Osman Buğrahan Kendirli | Asistance of Director and Head of Project Based Courses
   
